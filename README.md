@@ -14,7 +14,7 @@ A local server environment (WAMP, XAMPP, MAMP, etc. )
 
 ## Installing
 
-Import database file cms.sql
+Import database file *cms.sql*
 
 ## Authors
 
