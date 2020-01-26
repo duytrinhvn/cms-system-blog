@@ -16,6 +16,3 @@ A local server environment (WAMP, XAMPP, MAMP, etc. )
 
 Import database file *cms.sql*
 
-## Authors
-
-* **Khac Duy Trinh** - *Initial work*
